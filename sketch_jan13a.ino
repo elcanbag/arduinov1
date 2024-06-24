@@ -6,11 +6,11 @@ void setup() {
 }
 
 void loop() {
-  blinkMorse('Ə');
-  blinkMorse('s');
-  blinkMorse('m');
-  blinkMorse('ə');
-  blinkMorse('r');
+  blinkMorse('H');
+  blinkMorse('e');
+  blinkMorse('l');
+  blinkMorse('l');
+  blinkMorse('o');
   blinkMorse(' ');
 
   delay(2000);
